@@ -1,5 +1,7 @@
 # flutter_firebase
 
+***Important*** I only cofig firebase with web. I don't config adroid and ios
+
 flutter+firebase. What can i say? I out grow red?
 
 ## Getting Started
